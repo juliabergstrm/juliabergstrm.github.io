@@ -49,6 +49,10 @@ nav ul{
     margin:auto;
 }
 
+body{
+  background-color:rgb(255, 255, 240);
+}
+
 #img-grid{
   display: grid;
   grid-template-columns: repeat(3, 1fr);

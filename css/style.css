@@ -60,9 +60,9 @@ body{
   grid-column-gap: 2vw;
   grid-row-gap: 2vw; 
   width:auto;
-  margin-left:5vw;
-  margin-right:5vw;
-  padding:5vw;
+  margin-left:4vw;
+  margin-right:4vw;
+  padding:4vw;
   justify-content: center;
 }
 
@@ -87,7 +87,7 @@ footer {
   text-align: center;
   margin-bottom: 3vw;
   font-size: 130%;
-  font-family: "Funnel Display";
+  font-family:"Libre Bodoni";
 }
 
 

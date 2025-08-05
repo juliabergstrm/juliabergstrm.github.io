@@ -58,6 +58,10 @@ body{
   background-color:rgb(255, 255, 240);
 }
 
+img {
+  max-width:100%;
+}
+
 #img-grid{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -84,6 +88,28 @@ body{
   grid-row-gap: 0px;
 
 }
+
+#about-us-banner{
+  
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  
+  background-color: antiquewhite;
+}
+
+#about-us-banner img{
+  max-width: 15vw;
+ 
+}
+
+#about-us-banner h1{
+ margin: 10vw;
+  
+}
+
+
+
 
 
 
